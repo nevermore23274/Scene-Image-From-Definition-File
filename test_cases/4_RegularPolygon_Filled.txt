@@ -1,0 +1,5 @@
+Scene Polygons (500, 500)
+  RegularPolygon Color (250, 100, 100) at (100, 90) Sides 6 Radius 80;
+  RegularPolygon Color (100, 250, 100) at (200, 215) Sides 6 Radius 80;
+  RegularPolygon Color (100, 100, 250) at (300, 350) Sides 6 Radius 80;
+End.

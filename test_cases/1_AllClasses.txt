@@ -1,0 +1,9 @@
+Scene Polygons (500, 500)
+  IsoscelesTriangle Color (255, 100, 00) at (200, 115) Height 50 Width 100;
+  IsoscelesTriangle Color (255, 75, 100) at (350, 237) Height 80 Width 30;
+  RightTriangle Color (255, 0, 0) at (200, 30) Height 100 Width 300;
+  Parallelogram Color (100, 0, 250) at (100, 150) (150, 120) Offset 100;
+  RegularPolygon Color (255, 0, 100) at (250, 300) Sides 6 Radius 80;
+  RegularPolygon Color (255, 100, 100) at (100, 300) Sides 8 Radius 80;
+  Text Color(100, 100, 100) at (70, 300) "Hello World";
+End.

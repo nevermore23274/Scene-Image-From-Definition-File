@@ -1,0 +1,5 @@
+Scene Polygons (500, 500)
+  Text Color(100, 100, 250) at (200, 200) "Hello World";
+  Text Color(100, 250, 100) at (200, 100) "Hello World";
+  Text Color(250, 100, 100) at (200, 300) "Hello World";
+End.
